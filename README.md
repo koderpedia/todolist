@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,3 +68,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 APLIKASI TODOLIST PROJECT
+=======
+REST API FOR TODOLIST PROJECT
+>>>>>>> df00e522fa11e97eb7640cf2c10d3c7ec540109c
